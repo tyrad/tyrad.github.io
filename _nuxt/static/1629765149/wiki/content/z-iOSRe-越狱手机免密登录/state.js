@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1629765149",layout:"wiki",error:a,serverRendered:true,routePath:"\u002Fwiki\u002Fcontent\u002Fz-iOSRe-%E8%B6%8A%E7%8B%B1%E6%89%8B%E6%9C%BA%E5%85%8D%E5%AF%86%E7%99%BB%E5%BD%95",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"74742ade"}}}}(null));
