@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1629765149",layout:"wiki",error:a,serverRendered:true,routePath:"\u002Fwiki\u002Fcontent\u002Fcentos-yum%E5%AE%89%E8%A3%85%E6%8F%90%E7%A4%BA%E6%97%A0%E5%8F%AF%E7%94%A8%E5%8C%85",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"74742ade"}}}}(null));
