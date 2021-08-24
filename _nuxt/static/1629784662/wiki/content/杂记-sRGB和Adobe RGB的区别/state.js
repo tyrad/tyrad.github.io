@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1629784662",layout:"wiki",error:a,serverRendered:true,routePath:"\u002Fwiki\u002Fcontent\u002F%E6%9D%82%E8%AE%B0-sRGB%E5%92%8CAdobe%20RGB%E7%9A%84%E5%8C%BA%E5%88%AB",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"7ac53d34"}}}}(null));
