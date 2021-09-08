@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1631107771",layout:"wiki",error:a,serverRendered:true,routePath:"\u002Fwiki\u002Fcontent\u002FLinux%E5%91%BD%E4%BB%A4-chown%E5%92%8Cchmod%E7%9A%84%E5%8C%BA%E5%88%AB",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"23c12bf0"}}}}(null));

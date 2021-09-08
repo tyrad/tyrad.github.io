@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1631107771",layout:"wiki",error:a,serverRendered:true,routePath:"\u002Fwiki\u002Fcontent\u002FtableView-tabeleView%20%E8%8E%B7%E5%8F%96%E6%9F%90%E4%B8%AAcell%E7%9A%84%E9%AB%98%E5%BA%A6",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"23c12bf0"}}}}(null));
