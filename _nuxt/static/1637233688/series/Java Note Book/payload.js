@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/series/Java%20Note%20Book", {data:[{},{articles:[{slug:"java-quartz-1",title:"Quartz学习笔记",date:"2019-05-14 11:32:22 +0800"}],slug:"Java Note Book"}],fetch:{},mutations:void 0});
