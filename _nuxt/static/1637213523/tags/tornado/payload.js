@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags/tornado", {data:[{},{articles:[{slug:"tornado-with-eureka",title:"将Python Tornado注册到Eureka",date:"2020-06-25 11:32:22 +0800"}],slug:"tornado"}],fetch:{},mutations:void 0});

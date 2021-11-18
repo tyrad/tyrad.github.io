@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/categories/Go", (function(a){return {data:[{},{articles:[{slug:"go-learn-3",title:"Go笔记(三)：测试、反射、json解析",date:a},{slug:"go-learn-2",title:"Go笔记(二)：面向对象、错误处理、协程、并发",date:a},{slug:"go-learn-1",title:"Go笔记(一)：基本类型、运算符、条件、方法",date:"2020-02-07 17:27:15 +0800"}],slug:"Go"}],fetch:{},mutations:void 0}}("2020-02-08 17:27:15 +0800")));
