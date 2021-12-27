@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/categories/%E8%BD%AF%E4%BB%B6", {data:[{},{articles:[{slug:"Rime-setting-2020",title:"鼠须管(Rime)使用配置(2020)",date:"2020-06-25 11:32:22 +0800"}],slug:"软件"}],fetch:{},mutations:void 0});

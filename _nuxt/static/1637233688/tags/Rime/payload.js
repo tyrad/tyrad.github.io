@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tags/Rime", {data:[{},{articles:[{slug:"Rime-setting-2020",title:"鼠须管(Rime)使用配置(2020)",date:"2020-06-25 11:32:22 +0800"}],slug:"Rime"}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1637213523",layout:"wiki",error:a,serverRendered:true,routePath:"\u002Fwiki\u002Fcontent\u002F%E9%80%82%E9%85%8D-iOS14hidesBottomBarWhenPushed%E5%85%BC%E5%AE%B9%E9%97%AE%E9%A2%98",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"d75b8de1"}}}}(null));
